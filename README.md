@@ -2,7 +2,7 @@
 
 A shell script to mitigate language model "hallucination" by instructing the model to answer only when it meets a specified confidence threshold.
 
-This project is based on the principles discussed in the paper ["Why Language Models Hallucinate"](https://arxiv.org/abs/2409.05810) (Kalai et al., 2025), which proposes that explicitly stating confidence targets and penalties can lead to more trustworthy AI responses.
+This project is based on the principles discussed in the paper ["Why Language Models Hallucinate"](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf) (Kalai et al., 2025), which proposes that explicitly stating confidence targets and penalties can lead to more trustworthy AI responses.
 
 ## The `be_confident.sh` Script
 
